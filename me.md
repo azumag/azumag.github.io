@@ -1,4 +1,5 @@
-# Tsubasa Azumagakito (東垣外 翔)
+# Tsubasa Azumagakito
+東垣外 翔
 Born in Tokyo, Japan : 1986 - 10 - 27
 
 Feel free to follow!:
