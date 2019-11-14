@@ -25,7 +25,7 @@ Born in Tokyo, Japan : 1986 - 10 - 27
 - Artificial Life & Intelligence
 
 # Publications
-- Please see: [ResearchGate](https://www.researchgate.net/profile/Tsubasa_Azumagakito) / [Google Scholar](https://scholar.google.com/citations?user=WnsN2WEAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Tsubasa_Azumagakito) / [Google Scholar](https://scholar.google.com/citations?user=WnsN2WEAAAAJ&hl=en)
 
 ## Award
 Young Author Award : Tsubasa Azumagakito, Reiji Suzuki and Takaya Arita. Visualizing language evolution as an emergent phenomenon based on biological evolution and learning. Proceedings of the 16th International Symposium on Artificial Life and Robotics, 2011.
