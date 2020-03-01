@@ -5,8 +5,8 @@ Born in Tokyo, Japan : 1986 - 10 - 27
 [Twitter](https://twitter.com/azumag) / [Github](https://github.com/azumag) / [Qiita](https://qiita.com/azumag) / [ResearchGate](https://www.researchgate.net/profile/Tsubasa_Azumagakito) / [Google Scholar](https://scholar.google.com/citations?user=WnsN2WEAAAAJ&hl=en) / [Docker Hub](https://hub.docker.com/u/azumag/)
 
 # Works
-- Full Stack Web Engineerling (Hopefully)
-- Data Analysis & Machine Learning
+- Software & System Development
+- SUPER COOL AI which destroys human beings
 - Artificial Life Applications
 
 # Education
