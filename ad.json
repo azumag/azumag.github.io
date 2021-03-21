@@ -1,7 +1,7 @@
 {
   "ads": [
     {
-      "banner_img": "https://azumag.github.io/img/banner/twitch_follow.png",
+      "imgURL": "https://azumag.github.io/img/banner/twitch_follow.png",
       "type": "banner",
       "tag": [
         "twitch"
