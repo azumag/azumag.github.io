@@ -13,7 +13,8 @@
       "imgURL": "https://azumag.github.io/img/banner/bluemoon_sm.png",
       "type": "banner",
       "tag": [
-        "twitch"
+        "web",
+        "bluemoon"
       ],
       "value": "bluemoon",
       "uri": "https://www.bluemoon.works"
