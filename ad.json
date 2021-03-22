@@ -10,13 +10,13 @@
       "uri": "https://www.twitch.tv/azumagbanjo"
     },
     {
-      "imgURL": "https://azumag.github.io/img/banner/twitch_follow_sm.png",
+      "imgURL": "https://azumag.github.io/img/banner/bluemoon_sm.png",
       "type": "banner",
       "tag": [
         "twitch"
       ],
-      "value": "azumagbanjo",
-      "uri": "https://www.twitch.tv/azumagbanjo"
+      "value": "bluemoon",
+      "uri": "https://www.bluemoon.works"
     }
   ]
 }
