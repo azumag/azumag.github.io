@@ -1,13 +1,13 @@
 {
   "ads": [
     {
-      "banner_img": "",
+      "imgURL": "https://azumag.github.io/img/banner/twitch_follow.png",
       "type": "banner",
       "tag": [
         "twitch"
       ],
       "value": "azumagbanjo",
-      "uri": ""
+      "uri": "https://www.twitch.tv/azumagbanjo"
     }
   ]
 }
